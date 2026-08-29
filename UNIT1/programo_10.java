@@ -1,4 +1,4 @@
-//WRITE A JAVA PROGRAM OF 1D ARRAY?
+//WRITE A JAVA PROGRAM OF 1D ARRAY??
 import java.util.Scanner;
 public class oneDarray{
 
